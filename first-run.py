@@ -21,7 +21,7 @@ lonely = raw_input('Do you feel lonely now? ')
 if lonely == 'yes':
     sad += 1
 elif lonely == 'no':
-    lonely_2 = raw_input('are you mad')
+    pass
 
 
 
